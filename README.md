@@ -19,7 +19,6 @@
 
 # GW2-SettingsIndicator-Releases
 Public repository for releases of the settings indicator addon.
-The actual source code is kept private in compliance with directives by ArenaNet for implementations based on reverse engineering.
 
 ## Installation
 Install via the [Nexus](https://raidcore.gg/Nexus) Addon Library or download the latest `settingsindicator.dll` from the [Releases](https://github.com/RaidcoreGG/GW2-SettingsIndicator-Releases/releases) and place in `<Guild Wars 2>/addons`.
